@@ -1,5 +1,3 @@
-package cs250.hw1;
-
 public class Operations {
     public static void main(String[] args) {
         // TASK 1
@@ -420,4 +418,5 @@ public class Operations {
 
         return result;
     }
+
 }
